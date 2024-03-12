@@ -53,25 +53,29 @@ The Dashboard page provides an overview of product and order information.
 
 ### PRODUCT PAGE
 
-![Product Page](assets/product-page.png)
+
+![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
 
 On the Products page, you can view, add, edit, and delete products.
 
 ### Viewing Product Information
 
-![Viewing Product Information](assets/product-info.png)
+![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
+
 
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
 ### Editing a Product
 
-![Editing a Product](assets/edit-product.png)
+![Picsart_24-03-12_14-47-16-281](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/85b0723f-375c-4424-8c51-81c675676683)
+
 
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
 
 ### Adding a New Product
 
-![Adding a New Product](assets/add-product.png)
+![Picsart_24-03-12_13-15-46-184](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/852b799b-afd6-41b7-b912-bc4b74bd6513)
+
 
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
