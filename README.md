@@ -46,22 +46,22 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_14-19-35-027](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/07df8b7b-6a33-40f5-a90b-f8120f0f9ac9)
+![Picsart_24-03-12_13-15-46-184](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/852b799b-afd6-41b7-b912-bc4b74bd6513)
 
 
 The Dashboard page provides an overview of product and order information.
 
 ### PRODUCT PAGE
 
+![Picsart_24-03-12_14-19-35-027](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/07df8b7b-6a33-40f5-a90b-f8120f0f9ac9)
 
-![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
 
 On the Products page, you can view, add, edit, and delete products.
 
 ### Viewing Product Information
 
-![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
 
+![Picsart_24-03-12_14-41-38-773](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/a44667c2-c7a2-4e25-8fef-d182767c3836)
 
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
@@ -74,8 +74,7 @@ To edit a product, click on the "Edit" button next to the product you want to ed
 
 ### Adding a New Product
 
-![Picsart_24-03-12_13-15-46-184](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/852b799b-afd6-41b7-b912-bc4b74bd6513)
-
+![Picsart_24-03-12_14-52-12-169](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/207aa8bb-c426-4244-8173-2165d0920f82)
 
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
