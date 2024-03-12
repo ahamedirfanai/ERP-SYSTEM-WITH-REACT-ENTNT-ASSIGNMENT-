@@ -90,7 +90,11 @@ On the Orders page, you can view details of each order by clicking on the "View 
 
 You can update the status of an order to "Shipped" by clicking the "Ship" button.
 
-### Deleting an Order
+### Order Calender view
+
+You can view and display the order with expected delivery date by clicking  a particular date on a calender
+
+
 
 To delete an order, click on the "Delete" button next to the order you want to remove.
 
