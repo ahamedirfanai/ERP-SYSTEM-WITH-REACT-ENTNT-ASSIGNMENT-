@@ -80,9 +80,13 @@ To add a new product, click on the "Add Product" button, fill in the required fi
 
 ### ORDER PAGE
 
+![Picsart_24-03-12_15-55-32-683](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/4a805662-a36c-4ec9-8d46-082a5a3a09a8)
+
 On the Orders page, you can view order details, update order status, and delete orders.
 
 ### Viewing Order Details
+
+![Screenshot (88)-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/ffaded5b-8065-426b-a16f-34dbd3c81874)
 
 On the Orders page, you can view details of each order by clicking on the "View Details" button.
 
@@ -92,12 +96,13 @@ You can update the status of an order to "Shipped" by clicking the "Ship" button
 
 ### Order Calender view
 
+![Picsart_24-03-12_16-11-12-344](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/3ae931ba-fd56-43d6-96d5-41a3ccd3bfbe)
+
 You can view and display the order with expected delivery date by clicking  a particular date on a calender
 
 
-
-To delete an order, click on the "Delete" button next to the order you want to remove.
-
 ### Navigation
+
+![Screenshot_20240313-093210_Evolution X Launcher-01](https://github.com/ahamedirfanai/ERP-SYSTEM-WITH-REACT-ENTNT-ASSIGNMENT-/assets/122984518/7f20158f-0d5e-4a7f-ae53-d074b0aa007d)
 
 Use the navigation bar at the top of the page to switch between different sections of the application: Dashboard, Products, and Orders.
